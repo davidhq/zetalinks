@@ -3,6 +3,12 @@ https://commonsstack.org/abc
 https://commonsstack.org/apply
 https://medium.com/commonsstack
 
+Papers from Vienna University of Economics and Business by M. Zargham & collaborators:
+Economic Games as Estimators
+https://epub.wu.ac.at/7433/1/zargham_paruch_shorish.pdf
+From Curved Bonding to Configuration Spaces
+https://epub.wu.ac.at/7385/
+
 RadicalxChange Commons-Leap 1 Simulation Narrative
 https://docs.google.com/document/d/10eQzJ1XkvN66ltpRXq_vo8rxtDgarX5Q7C8TdJUlGD4
 
@@ -19,3 +25,8 @@ http://metagov.org/
 https://tor.us/
 
 http://glenweyl.com/
+
+Local Currency/Community Inclusion Currency Projects:
+https://www.grassrootseconomics.org/
+https://github.com/GrassrootsEconomics/CIC-Docs
+https://t.me/CICBlockchain
