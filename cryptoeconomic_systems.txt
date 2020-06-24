@@ -30,3 +30,26 @@ Local Currency/Community Inclusion Currency Projects:
 https://www.grassrootseconomics.org/
 https://github.com/GrassrootsEconomics/CIC-Docs
 https://t.me/CICBlockchain
+
+Via Michael Zargham
+
+A Dialogue Between the Metagovernance Project and the Commons Stack by Joshua Tan
+https://medium.com/commonsstack/exploring-daos-as-a-new-kind-of-institution-8103e6b156d4
+
+Foundations of Cryptoeconomic Systems - Michael Zargham - #CryptoEconSys20
+https://www.youtube.com/watch?v=HldQF_MJN_Y&feature=youtu.be
+
+Michael Zargham presents 'The Diversity of DAOs' @ DAOfest Berlin
+https://www.youtube.com/watch?v=75769EjciVk
+
+https://github.com/TokenEngineeringCommunity/resources
+https://tokenengineeringcommunity.github.io/website/docs/library-te-101
+
+Applied token cryptoeconomic modeling
+https://gitlab.com/grassrootseconomics/cic-modeling/-/blob/master/Simulation/CIC_Network_cadCAD_model.ipynb
+
+ICCS 2018 - rigorous mathematical basis for cryptoeconomics in a manner consistent with systems engineering and complex systems
+# causes issue with title reading https://static1.squarespace.com/static/5b68a4e4a2772c2a206180a1/t/5cd470fdc830253030167665/1557426435054/book_final_1.pdf
+
+The 2nd International Conference on Mathematical Research for Blockchain Economy
+https://www.marble-conference.org/marble2020
