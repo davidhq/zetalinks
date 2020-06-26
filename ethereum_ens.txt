@@ -1,0 +1,8 @@
+ENS Libraries - Ethereum Name Service
+https://docs.ens.domains/dapp-developer-guide/ens-libraries
+
+ethereum-ens - npm
+https://www.npmjs.com/package/ethereum-ens
+
+ENS Documentation
+https://buildmedia.readthedocs.org/media/pdf/ens/latest/ens.pdf

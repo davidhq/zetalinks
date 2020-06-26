@@ -1,0 +1,53 @@
+Introducing Web3 Plugins - MetaMask - Medium
+https://medium.com/metamask/introducing-the-next-evolution-of-the-web3-wallet-4abdf801a4ee
+
+Introducing Web3 Permissions - MetaMask - Medium
+https://medium.com/metamask/introducing-web3-permissions-c55b3d73563f
+
+MetaMask Monthly: February 2020 - MetaMask - Medium
+https://medium.com/metamask/metamask-monthly-february-2020-7e362fcb0320
+
+MetaMask Monthly: January 2020 - MetaMask - Medium
+https://medium.com/metamask/metamask-monthly-january-2020-35cdffa214e5
+
+Privacy Mode is now enabled by default - MetaMask - Medium
+https://medium.com/metamask/privacy-mode-is-now-enabled-by-default-1c1c957f4d57
+
+Breaking Changes to the MetaMask Inpage Provider - MetaMask - Medium
+https://medium.com/metamask/breaking-changes-to-the-metamask-inpage-provider-b4dde069dd0a
+
+Be signed out per domain until signing in · Issue #714 · MetaMask/metamask-extension
+https://github.com/MetaMask/metamask-extension/issues/714
+
+WalletConnect
+https://walletconnect.org/
+
+Web3Modal/web3modal: A single Web3 / Ethereum provider solution for all Wallets
+https://github.com/Web3Modal/web3modal
+
+Web3Modal Example
+https://web3modal.com/
+
+No Longer Reloading Pages on Network Change - MetaMask - Medium
+https://medium.com/metamask/no-longer-reloading-pages-on-network-change-fbf041942b44
+
+Introducing Web3 Permissions - MetaMask - Medium
+https://medium.com/metamask/introducing-web3-permissions-c55b3d73563f
+
+Ethereum Provider API | MetaMask Docs
+https://docs.metamask.io/guide/ethereum-provider.html#methods-current-api
+
+Ethereum Provider API | MetaMask Docs
+https://docs.metamask.io/guide/ethereum-provider.html#properties-2
+
+EIP 1102: Opt-in account exposure
+https://eips.ethereum.org/EIPS/eip-1102
+
+EIP 1193: Ethereum Provider JavaScript API
+https://eips.ethereum.org/EIPS/eip-1193#disconnect
+
+Never Use Passwords Again with Ethereum and Metamask | Hacker Noon
+https://hackernoon.com/never-use-passwords-again-with-ethereum-and-metamask-b61c7e409f0d
+
+WalletConnect
+https://walletconnect.org/apps

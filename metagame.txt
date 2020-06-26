@@ -1,0 +1,31 @@
+MetaGame
+
+   Forums:
+   https://forum.metagame.wtf/
+   Github:
+   https://github.com/MetaFam
+   Wiki:
+   https://wiki.metagame.wtf/
+
+Getting Started
+
+   How to Play:
+   https://forum.metagame.wtf/t/how-to-play-metagame/157
+   XP and Seeds:
+   https://metagame.substack.com/p/xp-seeds-and-quests
+   WTF is MG:
+   https://metagame.substack.com/p/srsly-tho-wtf-is-metagame
+
+Getting Connected
+
+   Newsletter:
+   https://metagame.substack.com/
+   MetaGame Twitter:
+   https://twitter.com/MetaFam
+   Meta Radio:
+   https://anchor.fm/MetaGame
+
+Seed distribution
+
+  https://observablehq.com/@hammadj/metagame-inaugural-seed-distribution-fixed-week-1-41
+  https://metafam.github.io/TheSource/timeline/@metagame/

@@ -1,0 +1,6 @@
+Swarm - Storage and Communication for a Sovereign Digital Society
+https://swarm.ethereum.org/
+
+https://swarm-guide.readthedocs.io
+
+https://github.com/ethersphere/swarm

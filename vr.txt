@@ -1,0 +1,20 @@
+WebXR Device API
+https://www.w3.org/TR/webxr/
+
+WebXR - Samples
+https://immersive-web.github.io/webxr-samples/
+
+When real and virtual meetups converge - wearekickback - Medium
+https://medium.com/wearekickback/when-real-and-virtual-meetups-converge-327d436ba4c9
+
+AltspaceVR | Be there, together.
+https://altvr.com/
+
+https://soundcloud.com/siggraph-spotlight/30-tim-sweeney-and-the-metaverse
+https://blog.siggraph.org/2019/10/siggraph-spotlight-episode-30-tim-sweeney-and-the-metaverse.html/
+
+AltspaceVR (@AltspaceVR) / Twitter
+https://twitter.com/AltspaceVR
+
+ETHVR (@ethereumvr) / Twitter
+https://twitter.com/ethereumvr

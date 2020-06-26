@@ -1,0 +1,7 @@
+How To Learn Solidity: The Ultimate Ethereum Coding Tutorial - Blockgeeks
+https://blockgeeks.com/guides/solidity/
+
+https://karl.tech/learning-solidity-part-1-deploy-a-contract/
+
+Introduction to Smart Contracts
+https://solidity.readthedocs.io/en/latest/introduction-to-smart-contracts.html

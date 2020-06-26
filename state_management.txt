@@ -1,0 +1,8 @@
+Goals | XState Docs
+https://xstate.js.org/docs/about/goals.html#api-goals
+
+TLA+ Video Course
+http://lamport.azurewebsites.net/video/videos.html
+
+TLA+ Course Lecture: Introduction to TLA+
+http://lamport.azurewebsites.net/video/intro.html

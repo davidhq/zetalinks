@@ -1,0 +1,40 @@
+https://rollupjs.org
+
+https://svelte.dev/
+
+feltcoop/why-svelte: Why Svelte is our choice for a large web project in 2020
+https://github.com/feltcoop/why-svelte
+
+Rollup.js cheatsheet
+https://devhints.io/rollup
+
+What Happens When You Create A Flexbox Flex Container? — Smashing Magazine
+https://www.smashingmagazine.com/2018/08/flexbox-display-flex-container/
+
+A Complete Guide to Grid | CSS-Tricks
+https://css-tricks.com/snippets/css/complete-guide-grid/
+
+A Complete Guide to Flexbox | CSS-Tricks
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+API Docs • Svelte
+https://svelte.dev/docs
+
+The easiest way to get started with Svelte
+https://svelte.dev/blog/the-easiest-way-to-get-started
+
+Hello world • Svelte Examples
+https://svelte.dev/examples#hello-world
+
+How to Bundle JavaScript With Rollup — Step-by-Step Tutorial · Jason Lengstorf
+https://lengstorf.com/learn-rollup-js/
+
+How Browsers Work: Behind the scenes of modern web browsers - HTML5 Rocks
+https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
+
+How browsers work
+http://taligarsiel.com/Projects/howbrowserswork1.htm
+
+A Book Apart, Get Ready for CSS Grid Layout
+https://abookapart.com/products/get-ready-for-css-grid-layout
+

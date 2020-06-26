@@ -26,10 +26,22 @@ https://tor.us/
 
 http://glenweyl.com/
 
+Conviction Voting: A Novel Continuous Decision Making Alternative to Governance
+https://medium.com/commonsstack/conviction-voting-a-novel-continuous-decision-making-alternative-to-governance-62e215ad2b3d
+
+Conviction Voting - Giveth - Medium
+https://medium.com/giveth/conviction-voting-34019bd17b10
+
 Local Currency/Community Inclusion Currency Projects:
 https://www.grassrootseconomics.org/
 https://github.com/GrassrootsEconomics/CIC-Docs
 https://t.me/CICBlockchain
+
+Primavera De Filippi | Berkman Klein Center
+https://cyber.harvard.edu/people/pdefilippi
+
+Token Bonding Curves in Practice - Token Economy
+https://tokeneconomy.co/token-bonding-curves-in-practice-3eb904720cb8
 
 Via Michael Zargham
 
@@ -49,7 +61,7 @@ Applied token cryptoeconomic modeling
 https://gitlab.com/grassrootseconomics/cic-modeling/-/blob/master/Simulation/CIC_Network_cadCAD_model.ipynb
 
 ICCS 2018 - rigorous mathematical basis for cryptoeconomics in a manner consistent with systems engineering and complex systems
-# causes issue with title reading https://static1.squarespace.com/static/5b68a4e4a2772c2a206180a1/t/5cd470fdc830253030167665/1557426435054/book_final_1.pdf
+https://static1.squarespace.com/static/5b68a4e4a2772c2a206180a1/t/5cd470fdc830253030167665/1557426435054/book_final_1.pdf
 
 The 2nd International Conference on Mathematical Research for Blockchain Economy
 https://www.marble-conference.org/marble2020
