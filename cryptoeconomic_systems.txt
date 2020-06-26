@@ -24,6 +24,8 @@ http://metagov.org/
 
 https://tor.us/
 
+https://panvala.com/
+
 http://glenweyl.com/
 
 Conviction Voting: A Novel Continuous Decision Making Alternative to Governance
@@ -39,6 +41,8 @@ https://t.me/CICBlockchain
 
 Primavera De Filippi | Berkman Klein Center
 https://cyber.harvard.edu/people/pdefilippi
+
+https://currency.community/
 
 Token Bonding Curves in Practice - Token Economy
 https://tokeneconomy.co/token-bonding-curves-in-practice-3eb904720cb8
