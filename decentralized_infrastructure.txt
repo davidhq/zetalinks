@@ -1,0 +1,12 @@
+https://www.brightid.org/
+
+https://3box.io/
+
+Ceramic Network | A web without silos
+https://www.ceramic.network/
+
+Shared backend for Web3 | 3Box
+https://3box.io/
+
+TrueBlocks Account Explorer
+https://github.com/Great-Hill-Corporation/trueblocks-explorer
