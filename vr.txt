@@ -20,3 +20,7 @@ https://twitter.com/AltspaceVR
 
 ETHVR (@ethereumvr) / Twitter
 https://twitter.com/ethereumvr
+
+https://github.com/mozilla/hubs
+
+https://github.com/aframevr/aframe/

@@ -10,3 +10,13 @@ https://3box.io/
 
 TrueBlocks Account Explorer
 https://github.com/Great-Hill-Corporation/trueblocks-explorer
+
+https://starkware.co/
+
+https://infura.io/
+
+Configure Infura with Web3 and Node.js - Codeforgeek
+https://codeforgeek.com/configure-infura-with-web3-and-node-js/
+
+Infura Documentation | Infura Documentation
+https://infura.io/docs

@@ -4,3 +4,8 @@ https://swarm.ethereum.org/
 https://swarm-guide.readthedocs.io
 
 https://github.com/ethersphere/swarm
+
+ethersphere/bee: Ethereum Swarm Bee
+https://github.com/ethersphere/bee
+
+https://medium.com/ethereum-swarm/get-ready-for-unstoppable-dapp-development-with-swarm-mvp-852933e32676

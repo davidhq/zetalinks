@@ -6,3 +6,6 @@ http://lamport.azurewebsites.net/video/videos.html
 
 TLA+ Course Lecture: Introduction to TLA+
 http://lamport.azurewebsites.net/video/intro.html
+
+The actor model in 10 minutes
+https://www.brianstorti.com/the-actor-model/

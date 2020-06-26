@@ -1,0 +1,6 @@
+https://docs.ethers.io/
+https://github.com/ethers-io/ethers.js
+
+https://github.com/fairDataSociety/fds.js/tree/master/lib
+https://github.com/fairDataSociety/fds.js/blob/master/lib/FDS-Multibox.js
+https://github.com/fairDataSociety/fds.js/blob/master/lib/contracts/Multibox.js

@@ -1,0 +1,28 @@
+https://github.com/mdn/webassembly-examples
+
+Standalone WebAssembly Example
+https://gist.github.com/kripken/59c67556dc03bb6d57052fedef1e61ab
+
+The Status Quo of WebAssembly - International Javascript Conference
+https://javascript-conference.com/blog/the-status-quo-of-webassembly/
+
+Get started with WebAssembly — using only 14 lines of JavaScript
+https://www.freecodecamp.org/news/get-started-with-webassembly-using-only-14-lines-of-javascript-b37b6aaca1e4/
+
+Loading and running WebAssembly code - WebAssembly | MDN
+https://developer.mozilla.org/en-US/docs/WebAssembly/Loading_and_running
+
+Using the WebAssembly JavaScript API - WebAssembly | MDN
+https://developer.mozilla.org/en-US/docs/WebAssembly/Using_the_JavaScript_API
+
+WebAssembly | MDN
+https://developer.mozilla.org/en-US/docs/WebAssembly
+
+github.com
+https://github.com/ewasm/design
+
+Comparison with Other Architectures - Ethereum WebAssembly
+https://ewasm.readthedocs.io/en/mkdocs/comparison/
+
+WebAssembly High-Level Goals - WebAssembly
+https://webassembly.org/docs/high-level-goals/

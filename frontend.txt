@@ -17,6 +17,15 @@ https://css-tricks.com/snippets/css/complete-guide-grid/
 A Complete Guide to Flexbox | CSS-Tricks
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
+Basic concepts of flexbox - CSS: Cascading Style Sheets | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
+
+CSS Flexible Box Layout - CSS: Cascading Style Sheets | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout
+
+Aligning Items in a Flex Container - CSS: Cascading Style Sheets | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Aligning_Items_in_a_Flex_Container
+
 API Docs • Svelte
 https://svelte.dev/docs
 
@@ -38,3 +47,8 @@ http://taligarsiel.com/Projects/howbrowserswork1.htm
 A Book Apart, Get Ready for CSS Grid Layout
 https://abookapart.com/products/get-ready-for-css-grid-layout
 
+Snap.svg - Why Snap
+http://snapsvg.io/about/
+
+Cross-component State Management in Svelte
+https://flaviocopes.com/svelte-state-management/
