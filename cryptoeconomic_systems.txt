@@ -6,17 +6,25 @@ https://medium.com/commonsstack
 Papers from Vienna University of Economics and Business by M. Zargham & collaborators:
 Economic Games as Estimators
 https://epub.wu.ac.at/7433/1/zargham_paruch_shorish.pdf
-From Curved Bonding to Configuration Spaces
-https://epub.wu.ac.at/7385/
 
 RadicalxChange Commons-Leap 1 Simulation Narrative
 https://docs.google.com/document/d/10eQzJ1XkvN66ltpRXq_vo8rxtDgarX5Q7C8TdJUlGD4
 
+CommonsStack CSTK Article
+https://medium.com/commonsstack/cstk-the-token-of-the-commons-stack-trusted-seed-931978625c61
+
+What are community shares? An animated guide
+https://www.youtube.com/watch?v=q6w-311GBIM&list=PLouSzq5F_PSjZHhGMUd_xKJv5DXeajGy9
+
+Rewriting the Story of Human Collaboration
+https://medium.com/commonsstack/rewriting-the-story-of-human-collaboration-652cfa423588
+
+Architecting the Cyber-Physical Commons
+https://medium.com/commonsstack/architecting-the-cyber-physical-commons-a294d88b5415
+
 https://block.science/
 https://github.com/BlockScience
 https://github.com/BlockScience/DynamicGamesSeminar
-
-https://cadcad.org/
 
 https://tokenengineeringcommunity.github.io/website/
 
@@ -24,16 +32,18 @@ http://metagov.org/
 
 https://tor.us/
 
+https://banklesshq.com/
 
 https://panvala.com/
 
+http://radicalmarkets.com/
 http://glenweyl.com/
 
 Conviction Voting: A Novel Continuous Decision Making Alternative to Governance
 https://medium.com/commonsstack/conviction-voting-a-novel-continuous-decision-making-alternative-to-governance-62e215ad2b3d
 
-Conviction Voting - Giveth - Medium
-https://medium.com/giveth/conviction-voting-34019bd17b10
+Conviction Voting
+https://medium.com/commonsstack/conviction-voting-f6f83a5d392a
 
 Local Currency/Community Inclusion Currency Projects:
 https://www.grassrootseconomics.org/
@@ -45,10 +55,23 @@ https://cyber.harvard.edu/people/pdefilippi
 
 https://currency.community/
 
+BONDING CURVES
+
 Token Bonding Curves in Practice - Token Economy
 https://tokeneconomy.co/token-bonding-curves-in-practice-3eb904720cb8
 
+https://tokeneconomy.co/dynamic-token-bonding-curves-41d36e43befa
+
+https://medium.com/coinmonks/token-bonding-curves-explained-7a9332198e0e
+
+https://medium.com/linum-labs/intro-to-bonding-curves-and-shapes-bf326bc4e11a
+
 Via Michael Zargham
+
+https://medium.com/giveth/deep-dive-augmented-bonding-curves-3f1f7c1fa751
+
+From Curved Bonding to Configuration Spaces
+https://epub.wu.ac.at/7385/
 
 A Dialogue Between the Metagovernance Project and the Commons Stack by Joshua Tan
 https://medium.com/commonsstack/exploring-daos-as-a-new-kind-of-institution-8103e6b156d4
@@ -62,7 +85,7 @@ https://www.youtube.com/watch?v=75769EjciVk
 https://github.com/TokenEngineeringCommunity/resources
 https://tokenengineeringcommunity.github.io/website/docs/library-te-101
 
-Applied token cryptoeconomic modeling
+Applied token cryptoeconomic modeling (related to bonding curves?)
 https://gitlab.com/grassrootseconomics/cic-modeling/-/blob/master/Simulation/CIC_Network_cadCAD_model.ipynb
 
 ICCS 2018 - rigorous mathematical basis for cryptoeconomics in a manner consistent with systems engineering and complex systems

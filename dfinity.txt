@@ -1,3 +1,14 @@
+https://dfinity.org/
+
+https://forum.dfinity.org/
+
+https://sdk.dfinity.org/docs/index.html
+
+https://dfinity.org/faq/what-is-motoko
+
+https://sdk.dfinity.org/docs/developers-guide/working-with-canisters.html
+
 DFINITY 2019 — Community Review - DFINITY - Medium
 https://medium.com/dfinity/dfinity-2019-community-review-d711749525b7
+
 

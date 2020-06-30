@@ -1,3 +1,5 @@
+http://ethereum.org/
+
 Ethereum 2.0 Beacon Chain (Phase 0) Block Chain Explorer - Index - beaconcha.in - 2020
 https://beaconcha.in/
 
@@ -8,3 +10,6 @@ Will Villanueva: Ethereum 2.0 Phase 2 Deep Dive - EthHub
 https://ethhub.substack.com/p/will-villanueva-ethereum-20-phase
 
 https://www.rocketpool.net/
+
+https://medium.com/@SomerEsat/guide-to-staking-on-ethereum-2-0-ubuntu-prysm-witti-2b972e697918
+

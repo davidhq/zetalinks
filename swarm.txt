@@ -1,11 +1,42 @@
 Swarm - Storage and Communication for a Sovereign Digital Society
 https://swarm.ethereum.org/
 
+Swarm Alpha Online Event: Release the Bees
+https://www.youtube.com/playlist?list=PL6fQnFAjtuY9TfTMm5GYqgscQ_6a7LE8A
+
 https://swarm-guide.readthedocs.io
 
 https://github.com/ethersphere/swarm
 
-ethersphere/bee: Ethereum Swarm Bee
+https://medium.com/ethereum-swarm/get-ready-for-unstoppable-dapp-development-with-swarm-mvp-852933e32676
+
+https://medium.com/ethereum-swarm/swarm-alpha-release-the-bees-d73fd30dfdf4
+
+SWARM CORPORATION LINKS:
+
+ethersphere/bee: Ethereum Swarm Bee Client
 https://github.com/ethersphere/bee
 
-https://medium.com/ethereum-swarm/get-ready-for-unstoppable-dapp-development-with-swarm-mvp-852933e32676
+Swarm bee client documentation on GitHub
+https://github.com/ethersphere/docs.github.io
+
+Swarm bee client documentation deployed on Swarm
+https://swarm-gateways.net/bzz:/docs.swarm.eth/bee-docs/installation.html
+
+Towards the vision of the world computer — Watch the Swarm update from EthCC!
+https://medium.com/@ethswarm/towards-the-vision-of-the-world-computer-watch-the-swarm-update-from-ethcc-c11fc4d5f23a
+
+Ecosystem questionnaire form (shared in Swarm Alpha event)
+https://swarm-gateways.net/bzz:/projects.swarm.eth/
+
+ Swarm chat on Mattermost:
+https://beehive.ethswarm.org/
+
+RELATED STUFF:
+
+https://fairdrop.xyz/
+
+SWARM LOCAL LINKS
+
+Swarm upload form (shared in Swarm Alpha event)
+http://localhost:8080/files/4ad388a557da07c422602e5fdd3b0541619e2f3ee9020265fac118c78987cd94

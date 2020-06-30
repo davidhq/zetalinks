@@ -1,0 +1,21 @@
+The Non-Fungible Token Bible: Everything you need to know about NFTs - OpenSea blog
+https://opensea.io/blog/guides/non-fungible-tokens/
+
+ERC: Multi Token Standard · Issue #1155 · ethereum/EIPs
+https://github.com/ethereum/eips/issues/1155
+
+ERC standards to move Ethereum forward? ERC-20, ERC-223, ERC-721.
+https://medium.com/wepower/erc-standards-to-move-ethereum-forward-erc-20-erc-223-erc-721-e1712456449d
+
+TRADING PLATFORMS
+
+https://opensea.io
+
+https://oceanprotocol.com/
+
+https://superrare.co/
+
+http://withfoundation.com/
+
+https://metafactory.ai/
+
