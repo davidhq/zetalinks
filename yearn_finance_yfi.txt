@@ -1,0 +1,49 @@
+--- note
+The purpose of yearn.finance is simple. Yield aggregator for lending platforms that rebalances for highest yield during contract interaction.
+---
+https://yearn.finance/
+
+--- note
+a yearn community aggregator
+---
+https://ycosystem.info/
+
+https://www.learnyearn.finance
+
+https://yinsure.finance/
+
+https://iborrow.finance/
+
+https://yswap.exchange/
+
+https://ytrade.finance/
+
+https://faq.yearn.finance/
+
+https://docs.yearn.finance/
+
+https://stats.finance/yearn
+
+https://feel-the-yearn.app/
+
+https://gov.yearn.finance/
+
+yearn finance discord
+https://discord.com/invite/GcjxhWR
+
+yearn finance telegram chat
+https://t.me/yearnfinance
+
+--- yETH
+
+See holdings in yearn Wrapped Ether
+https://feel-the-yearn.app/
+
+yETH MAKER VAULT (ETH locked)
+https://oasis.app/borrow/13972
+
+yETH vault zapper.fi
+https://zapper.fi/dashboard?address=0x932fc4fd0eEe66F22f1E23fBA74D7058391c0b15
+
+yWETH token
+https://etherscan.io/token/0xe1237aA7f535b0CC33Fd973D66cBf830354D16c7

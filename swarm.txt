@@ -4,8 +4,6 @@ https://swarm.ethereum.org/
 Swarm Alpha Online Event: Release the Bees
 https://www.youtube.com/playlist?list=PL6fQnFAjtuY9TfTMm5GYqgscQ_6a7LE8A
 
-https://swarm-guide.readthedocs.io
-
 https://github.com/ethersphere/swarm
 
 https://medium.com/ethereum-swarm/get-ready-for-unstoppable-dapp-development-with-swarm-mvp-852933e32676
@@ -21,7 +19,7 @@ Swarm bee client documentation on GitHub
 https://github.com/ethersphere/docs.github.io
 
 Swarm bee client documentation deployed on Swarm
-https://swarm-gateways.net/bzz:/docs.swarm.eth/bee-docs/installation.html
+https://swarm-gateways.net/bzz:/docs.swarm.eth/
 
 Towards the vision of the world computer — Watch the Swarm update from EthCC!
 https://medium.com/@ethswarm/towards-the-vision-of-the-world-computer-watch-the-swarm-update-from-ethcc-c11fc4d5f23a
@@ -29,8 +27,21 @@ https://medium.com/@ethswarm/towards-the-vision-of-the-world-computer-watch-the-
 Ecosystem questionnaire form (shared in Swarm Alpha event)
 https://swarm-gateways.net/bzz:/projects.swarm.eth/
 
+https://hackmd.io/@ethswarm
+
+Features hackmd
+https://hackmd.io/X981-D78RcCYlp0yec7n8w
+
+Staging gateway
+https://gateway.staging.ethswarm.org/
+
  Swarm chat on Mattermost:
 https://beehive.ethswarm.org/
+
+https://medium.com/ethereum-swarm/swarm-alpha-all-announcements-from-the-event-3a4e228bd2ec
+
+New Swarm gateway (bee client network)
+https://gateway.ethswarm.org/
 
 RELATED STUFF:
 
@@ -40,3 +51,4 @@ SWARM LOCAL LINKS
 
 Swarm upload form (shared in Swarm Alpha event)
 http://localhost:8080/files/4ad388a557da07c422602e5fdd3b0541619e2f3ee9020265fac118c78987cd94
+

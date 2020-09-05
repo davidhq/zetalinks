@@ -29,3 +29,7 @@ Seed distribution
 
   https://observablehq.com/@hammadj/metagame-inaugural-seed-distribution-fixed-week-1-41
   https://metafam.github.io/TheSource/timeline/@metagame/
+
+Seed market
+
+  https://app.uniswap.org/#/swap?inputCurrency=0x30cf203b48edaa42c3b4918e955fed26cd012a3f&outputCurrency=ETH

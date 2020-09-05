@@ -1,0 +1,60 @@
+--- AFTER FAIL
+
+https://github.com/flygoing/yam-snapshots
+
+--- INITIAL
+
+https://yam.finance/
+
+https://yam.zippo.io/
+
+https://twitter.com/YamFinance
+
+https://github.com/yam-finance/yam-protocol
+
+[hot]
+https://medium.com/wearekickback/rip-yam-live-code-review-session-result-9d96a753a1af
+
+[hot]
+https://www.youtube.com/watch?v=gVMeYxNYp_I
+
+🆕
+https://medium.com/@yamfinance/yam-post-rescue-attempt-update-c9c90c05953f
+
+🆕
+https://thedefiant.substack.com/p/yampocalypse-how-extreme-hubris-and-a58
+
+https://medium.com/@yamfinance/yam-finance-d0ad577250c7
+
+https://medium.com/@yamfinance/save-yam-245598d81cec
+
+https://thedefiant.substack.com/p/defi-traders-pour-400m-into-a-1-day
+
+Discord - Yam.Finance
+https://discord.com/invite/5KZcZTW
+
+Community Discord - YAMMY FINANCE
+https://discord.com/invite/QzAXrxa
+
+Telegram
+https://t.me/yam_finance
+
+https://thegraph.com/explorer/subgraph/crazyrabbitltc/yamgovernance
+
+Only valid pool for supplying YAM liquidity (you need yCRV as well)
+https://uniswap.info/pair/0x2c7a51a357d5739c5c74bf3c96816849d2c9f726
+
+You get yCRV here by depositing stablecoins into the y.curve pool
+https://curve.fi/iearn/deposit
+
+You can also buy yCurve via 1inchexchange
+https://1inch.exchange/#/ETH/yCurve
+
+https://medium.com/@yamfinance/how-to-exit-the-eternal-lands-pool-and-withdraw-your-yam-823d57c95f3a
+
+https://whalerdao.org/post/0/
+
+AMPLE
+https://www.ampltalk.org/app/forum/economics-18/topic/ample-is-an-elastic-base-money-why-elastic-supply-48/
+
+https://yieldfarmingtools.com/

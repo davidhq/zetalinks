@@ -1,0 +1,45 @@
+--- note
+Stake Uniswap LP tokens to claim your very own yummy SUSHI!
+----
+https://sushiswap.org/
+
+https://github.com/sushiswap
+
+https://medium.com/sushiswap/
+
+https://sushi.zippo.io/
+
+https://twitter.com/nomichef
+
+https://twitter.com/SushiSwap
+
+--- note
+SushiSwap Comes for Uniswap as DeFi's Unicorn Flies Highest
+---
+https://thedefiant.substack.com/p/sushiswap-comes-for-uniswap-as-defis
+
+https://www.coingecko.com/en/coins/sushi
+
+# https://etherscan.io/address/0x6b3595068778dd592e39a122f4f5a5cf09c90fe2
+
+https://discord.gg/hJ2p555
+
+# clone of yieldfarmingtools.com
+--- note
+For everyone farming @SushiSwap
+ I forked http://yieldfarmingtools.com (awesome site definite use it) and made it just track sushi while also giving you hourly, daily and weekly roi for what you are staking (by @andy8052)
+---
+https://5f4d580dca1e32000824e5cb--mystifying-montalcini-d6d1b1.netlify.app/
+
+--- THEORY
+
+# Vampire Attack – an attack on liquidity dependent protocols
+--- note
+I did just come up with a very dark scenario for liquidity dependent projects. It's call the vampire attack! No, garlic will not save your project! To protect your defi project, you should as soon as possible implement some form of liquidity lock-up or reward long term liquidity provider.
+---
+https://www.cryptonative.ch/vampire-attack-an-attack-on-liquidity-dependent-protocols/
+
+--- note
+The $SUSHI LP deposit contract.
+---
+https://app.zerion.io/0xc2edad668740f1aa35e4d8f227fb8e17dca888cd/overview

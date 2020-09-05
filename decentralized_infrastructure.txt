@@ -1,7 +1,5 @@
 https://www.brightid.org/
 
-https://3box.io/
-
 Ceramic Network | A web without silos
 https://www.ceramic.network/
 
@@ -20,3 +18,5 @@ https://codeforgeek.com/configure-infura-with-web3-and-node-js/
 
 Infura Documentation | Infura Documentation
 https://infura.io/docs
+
+https://libp2p.io/

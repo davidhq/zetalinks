@@ -12,9 +12,6 @@ https://altvr.com/
 
 cryptovoxels.com
 
-https://soundcloud.com/siggraph-spotlight/30-tim-sweeney-and-the-metaverse
-https://blog.siggraph.org/2019/10/siggraph-spotlight-episode-30-tim-sweeney-and-the-metaverse.html/
-
 AltspaceVR (@AltspaceVR) / Twitter
 https://twitter.com/AltspaceVR
 
@@ -24,3 +21,5 @@ https://twitter.com/ethereumvr
 https://github.com/mozilla/hubs
 
 https://github.com/aframevr/aframe/
+
+https://www.highfidelity.com/

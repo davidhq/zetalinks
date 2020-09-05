@@ -1,0 +1,3 @@
+A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
+https://github.com/krzemienski/awesome-video
+

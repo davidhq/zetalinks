@@ -7,8 +7,8 @@ Papers from Vienna University of Economics and Business by M. Zargham & collabor
 Economic Games as Estimators
 https://epub.wu.ac.at/7433/1/zargham_paruch_shorish.pdf
 
-RadicalxChange Commons-Leap 1 Simulation Narrative
-https://docs.google.com/document/d/10eQzJ1XkvN66ltpRXq_vo8rxtDgarX5Q7C8TdJUlGD4
+#RadicalxChange Commons-Leap 1 Simulation Narrative
+#https://docs.google.com/document/d/10eQzJ1XkvN66ltpRXq_vo8rxtDgarX5Q7C8TdJUlGD4
 
 CommonsStack CSTK Article
 https://medium.com/commonsstack/cstk-the-token-of-the-commons-stack-trusted-seed-931978625c61
@@ -22,7 +22,11 @@ https://medium.com/commonsstack/rewriting-the-story-of-human-collaboration-652cf
 Architecting the Cyber-Physical Commons
 https://medium.com/commonsstack/architecting-the-cyber-physical-commons-a294d88b5415
 
+--- note
+BlockScience ® is an engineering, R&D, and analytics firm specializing in complex systems. Our focus is to design and build data-driven decision systems for new and legacy businesses leveraging engineering methodologies and academic-grade tools.
+---
 https://block.science/
+
 https://github.com/BlockScience
 https://github.com/BlockScience/DynamicGamesSeminar
 

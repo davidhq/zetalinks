@@ -1,0 +1,63 @@
+--- note
+Top 100 Coins by Market Capitalization
+---
+https://coingecko.com/
+
+https://www.kraken.com/
+
+--- note
+MyCrypto is an open-source, client-side tool for generating ether wallets, handling ERC-20 tokens, and interacting with the blockchain more easily. Developed by and for the community since 2015, we’re focused on building awesome products that put the power in people’s hands.
+---
+https://mycrypto.com/
+
+--- note
+There's tons of crypto projects.
+Which ones are people actually paying to use?
+---
+https://cryptofees.info/
+
+--- note
+A new Ethereum token list standard.
+
+Token Lists is a community-led initiative to improve discoverability, reputation and trust in ERC20 token lists in a manner that is inclusive, transparent, and decentralized.
+---
+https://tokenlists.org/
+
+--- note
+DeFi Pulse is a site where you can find the latest analytics and rankings of DeFi protocols. Our rankings track the total value locked into the smart contracts of popular DeFi applications and protocols. Additionally, we curate The DeFi List, a collection of the best resources in DeFi.
+---
+https://defipulse.com/
+
+--- note
+Interest rates from the top cryptocurrency lending protocols and crypto banks – updated every hour!
+----
+https://defirate.com/
+
+--- note
+Uniswap is a decentralised exchange in the form of smart contracts hosted on the Ethereum blockchain. It's a 100% on-chain market maker allowing the swapping of ERC20 tokens, as well as ETH to an ERC20, and vice-versa.
+---
+https://uniswap.org/
+
+--- note
+A crypto wallet & gateway to blockchain apps
+---
+https://metamask.io/
+
+--- note
+Decentralised Etheruem Proof of Stake network
+---
+https://www.rocketpool.net/
+
+https://consensys.net/blog
+
+--- note
+ETH Gas Station aims to increase the transparency of gas prices, transaction confirmation times, and miner policies on the Ethereum network.
+---
+https://ethgasstation.info/
+
+https://etherscan.io/gastracker
+
+--- note
+Zapper was formed as a result of DeFiSnap + DeFiZap coming together to create the ultimate hub for Decentralized Finance aka #DeFi.
+---
+https://www.zapper.fi/

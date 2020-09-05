@@ -1,4 +1,7 @@
+Ethereum Scaling
 https://eth2.info
+
+https://benjaminion.xyz/eth2-annotated-spec/
 
 https://ethereum-magicians.org/
 

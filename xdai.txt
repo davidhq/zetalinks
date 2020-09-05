@@ -1,0 +1,11 @@
+https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup
+
+Convert DAI <-> xDAI
+https://dai-bridge.poa.network/
+
+#Not reliable :(
+#https://xdai.io/
+
+#https://medium.com/@jaredstauffer/how-to-get-xdai-how-to-convert-dai-to-xdai-eth-dai-xdai-30a60e4b6641
+
+

@@ -1,4 +1,4 @@
-https://metamask.io/
+
 
 Today we are beginning to roll out a big update: MetaMask Version 8!
 https://twitter.com/metamask_io/status/1278698818876260352?s=21
@@ -7,9 +7,6 @@ https://medium.com/metamask/announcing-metamask-version-8-9126dc2df98
 
 Introducing Web3 Plugins - MetaMask - Medium
 https://medium.com/metamask/introducing-the-next-evolution-of-the-web3-wallet-4abdf801a4ee
-
-Introducing Web3 Permissions - MetaMask - Medium
-https://medium.com/metamask/introducing-web3-permissions-c55b3d73563f
 
 MetaMask Monthly: February 2020 - MetaMask - Medium
 https://medium.com/metamask/metamask-monthly-february-2020-7e362fcb0320

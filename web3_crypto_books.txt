@@ -1,0 +1,24 @@
+Crypto
+
+The Infinite Machine: How an Army of Crypto-hackers Is Building the Next Internet with Ethereum
+https://www.amazon.com/Infinite-Machine-Crypto-hackers-Building-Internet/dp/0062886142
+
+Token Economy: How the Web3 reinvents the Internet
+https://www.amazon.com/Token-Economy-Web3-reinvents-Internet/dp/3982103819
+
+The Future of the Internet and How to Stop It
+https://dash.harvard.edu/handle/1/4455262
+
+--- note
+Zittrain has certainly spotted the dark side of Web 2.0. He has specifically illuminated those selected design assumptions within and around the internet that can shift the net from a tool by which you manage your life -- to a tool by which others manage your life. This is a serious book that merges the future of technology with public policy (and without ever actually discussing public policy -- he instead wisely focuses on the implications of certain technology architectural choices).
+---
+
+The Future of the Internet and How to Stop It - Original Book
+https://dash.harvard.edu/bitstream/handle/1/4455262/Zittrain_Future%20of%20the%20Internet.pdf?sequence=1&isAllowed=y
+
+--- note
+The Harvard community has made this
+article openly available. Please share how
+this access benefits you. Your story matters
+---
+

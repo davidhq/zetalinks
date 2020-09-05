@@ -1,3 +1,4 @@
+
 ENS Libraries - Ethereum Name Service
 https://docs.ens.domains/dapp-developer-guide/ens-libraries
 
@@ -7,13 +8,11 @@ https://www.npmjs.com/package/ethereum-ens
 ENS Documentation
 https://buildmedia.readthedocs.org/media/pdf/ens/latest/ens.pdf
 
-ENS Libraries - Ethereum Name Service
-https://docs.ens.domains/dapp-developer-guide/ens-libraries
-
 Permanent Registrar Frequently Asked Questions - Ethereum Name Service
 https://docs.ens.domains/permanent-registrar-faq
 
 The Quick and Dirty Guide to the Ethereum Name Service (ENS) – Code Climbing
 https://codeclimbing.com/the-quick-and-dirty-guide-to-the-ethereum-name-service-ens/
 
-https://enslisting.com/
+# expired certificate (let's encrypt)
+# https://enslisting.com/

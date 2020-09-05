@@ -1,2 +1,7 @@
 RFC 6455 - The WebSocket Protocol
 https://tools.ietf.org/html/rfc6455
+
+https://html.spec.whatwg.org/multipage/web-sockets.html
+
+High Performance Browser Networking
+https://hpbn.co/

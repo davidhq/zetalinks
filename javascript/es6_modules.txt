@@ -1,0 +1,5 @@
+http://exploringjs.com/es6/ch_modules.html
+
+https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/
+
+https://blog.sourcerer.io/complete-introduction-to-async-functions-and-es6-modules-in-node-js-9f59887ba531
