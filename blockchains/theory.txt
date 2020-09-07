@@ -1,0 +1,5 @@
+--- SHARDING
+
+https://medium.com/nearprotocol/the-authoritative-guide-to-blockchain-sharding-part-1-1b53ed31e060
+
+

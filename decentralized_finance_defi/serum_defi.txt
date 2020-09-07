@@ -1,0 +1,16 @@
+https://medium.com/solana-labs/ftx-chooses-solana-for-serum-a-high-speed-non-custodial-decentralized-derivatives-exchange-c346a27c1f2b
+
+--- note
+Serum - White Paper;
+Serum Foundation;
+July 2020
+----
+https://projectserum.com/serum_white_paper.pdf
+
+https://dex.projectserum.com/
+
+1) This is my first in a series of posts on The State of DeFi.
+https://twitter.com/SBF_Alameda/status/1284965991445704705
+
+My second post on The State of Defi:
+https://twitter.com/SBF_Alameda/status/1285407575941345280

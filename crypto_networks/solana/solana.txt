@@ -1,0 +1,70 @@
+--- note
+Solana network explorer analytics
+----
+https://solanabeach.io/
+
+https://docs.solana.com/
+
+--- note
+For fast, secure, scalable, decentralized apps and marketplaces.
+---
+https://solana.com/
+
+https://github.com/solana-labs/solana
+
+https://soundcloud.com/solanalabs
+
+--- note
+Solana Whitepaper: A new architecture for a high
+performance blockchain
+Author: Anatoly Yakovenko
+----
+https://solana.com/solana-whitepaper.pdf
+
+--- social media
+
+https://twitter.com/solana
+
+https://t.me/solanaio
+
+http://reddit.com/r/solana
+
+https://www.youtube.com/c/solanalabs
+
+--- misc
+
+https://break.solana.com/
+
+On testnet
+https://break.solana.com/results?cluster=testnet
+
+--- examples
+
+https://github.com/solana-labs/example-tictactoe
+
+https://github.com/solana-labs/example-messagefeed
+
+--- blog posts
+
+https://medium.com/solana-labs/proof-of-history-a-clock-for-blockchain-cf47a61a9274
+
+https://medium.com/@anatolyyakovenko
+
+--- tech guides
+
+# Ledger info plus how to install solana-cli
+https://medium.com/meleatoken/sol-ledger-hardware-wallet-solana-guide-21fe915fd32c
+
+--- staking
+
+https://medium.com/stakin/how-to-stake-solana-with-solflare-wallet-and-ledger-nano-8f723098ed93
+
+https://medium.com/meleatoken/staking-sol-with-solflare-crypto-wallet-b79ab88b1aef
+
+--- ecosystem
+
+# wallet for staking
+https://solflare.com/
+
+# another wallet
+https://www.sollet.io/
